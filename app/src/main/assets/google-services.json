@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233140369921",
+    "firebase_url": "https://riceapp-b3eb5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "riceapp-b3eb5",
+    "storage_bucket": "riceapp-b3eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233140369921:android:60b3d463af42d0310e9e00",
+        "android_client_info": {
+          "package_name": "com.sven.riceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233140369921-nv8nkl4kdqrvhk4kri9e7ia4p5dgpgrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBfXPyXsPqS04heHLbfQNtLw009MGm5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233140369921-nv8nkl4kdqrvhk4kri9e7ia4p5dgpgrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
